@@ -12,9 +12,9 @@ function pog_info()
 	return array(
 		"name"			=> "PM on Groupjoin",
 		"description"	=> "Schreibt eine PN an Nutzer welche einer neuen Gruppe beitreten",
-		"website"		=> "http://mybbdemo.tk/",
+		"website"		=> "http://jonesboard.tk/",
 		"author"		=> "Jones",
-		"authorsite"	=> "http://mybbdemo.tk",
+		"authorsite"	=> "http://jonesboard.tk/",
 		"version"		=> "1.0",
 		"guid" 			=> "",
 		"compatibility" => "*"
