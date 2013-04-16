@@ -12,12 +12,13 @@ function pog_info()
 	return array(
 		"name"			=> "PM on Groupjoin",
 		"description"	=> "Schreibt eine PN an Nutzer welche einer neuen Gruppe beitreten",
-		"website"		=> "http://jonesboard.tk/",
+		"website"		=> "http://jonesboard.de/",
 		"author"		=> "Jones",
-		"authorsite"	=> "http://jonesboard.tk/",
+		"authorsite"	=> "http://jonesboard.de/",
 		"version"		=> "1.0",
 		"guid" 			=> "",
-		"compatibility" => "*"
+		"compatibility" => "*",
+		"myplugins_id"	=> "pm-on-groupjoin"
 	);
 }
 
